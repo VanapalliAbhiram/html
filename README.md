@@ -15,3 +15,15 @@
 11.small tag <small></small>
 12.storng tag <strong></strong>
 13.bold tag <b></b>
+
+#17/04/26
+
+1.Table tags <Table></Table>
+2.Table header tags<th></th>
+3.Table data tags <td></td>
+4.Table rows tags <tr></tr>
+5.Image tags <img src=""></img>
+6.anchorl tags <a herf=""></a>
+7.markeee tags <markee></markee>
+8.oder list tags <ol></ol>
+9.unoder list tags<ul></ul>
