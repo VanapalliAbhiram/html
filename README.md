@@ -39,4 +39,10 @@
 6.input tag <input>
 7.audio tag <audio></audio>
 8.video tag<video></video>
-9.
+9.Delete tag <del></del>
+10.sub tag<sub></sub>
+11.header tag<header></header>
+12.footer tag <footer></footer>
+13.address tag <address></address>
+14.ins tag <ins></ins>
+15.super tag <sup></sup>
