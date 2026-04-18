@@ -27,3 +27,16 @@
 7.markeee tags <markee></markee>
 8.oder list tags <ol></ol>
 9.unoder list tags<ul></ul>
+
+
+
+#18/04/26
+1.form tag <form></form>
+2.type attributes - type=""
+3.label tag <label></label>
+4.select tag<select></select>
+5.option tag <option></option>
+6.input tag <input>
+7.audio tag <audio></audio>
+8.video tag<video></video>
+9.
